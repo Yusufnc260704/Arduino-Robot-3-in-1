@@ -10,3 +10,5 @@ Mahasiswa Informatika | Web Developer | IoT Enthusiast 💡
 - 🌐 Frameworks: Laravel, React, Node.js
 - 🛢️ Database: MySQL, MongoDB
 - ⚙️ Tools: VS Code, Git, Docker
+
+<img src="https://ibb.co.com/JWqMrX7g" alt="Deskripsi gambar" />
