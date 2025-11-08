@@ -11,8 +11,4 @@ Mahasiswa Informatika | Web Developer | IoT Enthusiast 💡
 - 🛢️ Database: MySQL, MongoDB
 - ⚙️ Tools: VS Code, Git, Docker
 
-<a href="https://ibb.co.com/JWqMrX7g">
-  <img src="https://i.ibb.co.com/PsMf1Bh0/meowlabsnew.jpg" alt="meowlabsnew" border="0">
-</a>
-
-
+![Meowlabs](https://i.ibb.co/PsMf1Bh0/meowlabsnew.jpg)
