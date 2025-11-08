@@ -18,7 +18,7 @@
     <img src="https://i.imgur.com/g8aajCM.jpeg" alt="Project Image 1" style="width: 300px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
     <img src="https://i.imgur.com/VwDI9nq.jpeg" alt="Project Image 2" style="width: 300px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
     <img src="https://i.imgur.com/waWX6py.jpeg" alt="Project Image 3" style="width: 300px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-    <img src="https://i.imgur.com/lKZFfRm.jpeg" alt="Project Image 4" style="width: 300px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+    <img src="https://i.imgur.com/Ue15ZWh.jpeg" alt="Project Image 4" style="width: 300px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
   </div>
 
 </div>
