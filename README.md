@@ -11,6 +11,7 @@
     2. Following Object
     3. Avoider
       </b>
+    Kalau saya sendiri menamainya dengan <b>CRAB BOT</b>
   </p>
 
   <!-- Galeri Gambar -->
