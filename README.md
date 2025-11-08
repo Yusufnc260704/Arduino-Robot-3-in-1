@@ -11,4 +11,5 @@ Mahasiswa Informatika | Web Developer | IoT Enthusiast 💡
 - 🛢️ Database: MySQL, MongoDB
 - ⚙️ Tools: VS Code, Git, Docker
 
-<img src="https://ibb.co.com/JWqMrX7g" alt="Deskripsi gambar" />
+![Logo Saya](https://ibb.co.com/JWqMrX7g)
+
